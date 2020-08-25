@@ -1,0 +1,5 @@
+body {background-image: url("cork-board.png");}
+img{text-align-last: right;}
+header {text-align: center; color: blue;}
+li {align-items: center; font-size: 16px; color: darkcyan ;text-decoration-color: brown}
+.button-link {height:auto; color: aqua; background-color: brown ; border-radius: 6px; }
